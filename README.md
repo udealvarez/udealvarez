@@ -51,7 +51,6 @@ I’m a private airplane pilot ✈️, I enjoy skydiving 🪂, water sports 🌊
 
 <h2>Github stats:</h2> 
 
-[![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=udealvarez&show_icons=true&theme=tokyonight&hide_border=true&locale=en&cache_seconds=21600)](https://github.com/udealvarez)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=udealvarez&theme=material-palenight&hide_border=true)](https://git.io/streak-stats)
+[![](https://github-readme-stats.vercel.app/api?username=udealvarez&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/udealvarez)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=udealvarez&theme=material-palenight)](https://github.com/udealvarez)
 
